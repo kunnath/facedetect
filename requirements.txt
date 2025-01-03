@@ -1,6 +1,5 @@
 opencv-python
 opencv-python-headless
-ibgl1-mesa-glx
 streamlit
 numpy
 pandas
