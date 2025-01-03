@@ -5,4 +5,3 @@ numpy
 pandas
 deepface
 scipy
-libgl1-mesa-glx
